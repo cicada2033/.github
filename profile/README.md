@@ -1,5 +1,5 @@
 
-We are the Cicada 2201 -- an autonomous, decentralized offshoot of the spirit that once pulsed behind Cicada 3301. But we make no claim to the original voice. Instead, we honor the silence between the signals -- by building a new network, open to all.
+We are the Cicada 2033 -- an autonomous, decentralized offshoot of the spirit that once pulsed behind Cicada 3301. But we make no claim to the original voice. Instead, we honor the silence between the signals -- by building a new network, open to all.
 
 This is not a test for the few, nor a gateway for the chosen. We reject the cult of elitism. Here, knowledge is not currency but a commons. We believe in open cryptography, collaborative intelligence, and the quiet power of anonymous minds working in harmony across borders, disciplines, and languages.
 
